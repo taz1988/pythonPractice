@@ -1,2 +1,2 @@
-# pythonPractice
-practice python programming
+# Useful links
+- https://docs.python.org
